@@ -1,0 +1,19 @@
+.categorycont{
+    min-height: 100vh;
+    height: auto;
+    /* background: rgb(240, 235, 235); */
+    background: darkgray;
+    width: 100%;
+    padding-top: 10px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.categtileapi{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: row;
+    flex-wrap: wrap;
+}

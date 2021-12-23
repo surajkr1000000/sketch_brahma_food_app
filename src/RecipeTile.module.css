@@ -1,0 +1,19 @@
+#recipeimg{
+    width: 250px;
+    border: 1px solid #ffff;
+    margin: 10px;
+    transition: all 0.4s ease;
+    border-radius: 10px;
+    
+}
+img:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+}
+#recipepara{
+    text-align: center;
+    /* font-family: 'Courier New', Courier, monospace; */
+    font-family: DejaVu Sans Mono, monospace;
+    font-weight: 100;
+    font-size: 20px;
+}

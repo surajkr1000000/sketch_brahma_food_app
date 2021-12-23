@@ -1,0 +1,14 @@
+#catgimg{
+    width: 300px;
+    /* border: 2px solid white; */
+    margin: 10px;
+    transition: all 0.4s ease;
+    border-radius: 10px;
+}
+
+#categpara{
+    text-align: center;
+    font-family: DejaVu Sans Mono, monospace;
+    font-weight: 100;
+    font-size: 20px;
+}
